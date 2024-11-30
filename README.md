@@ -53,7 +53,7 @@ QR-Code-Generator/
 ---
 
 ## **Preview**
-![Preview of the QR Code Generator](https://via.placeholder.com/800x400?text=QR+Code+Generator+Preview)
+![Preview of the QR Code Generator](preview.jpg)
 
 ---
 
