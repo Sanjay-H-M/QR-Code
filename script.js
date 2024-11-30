@@ -11,7 +11,7 @@ generateBtn.addEventListener("click",(e)=>{
         generateQRCode();
     }
     else{
-        alert("--  PLease Enter the text or URL to generate QR Code  --");
+        alert("--  Please Enter the text or URL to generate QR Code  --");
     }
 });
 
@@ -32,7 +32,7 @@ downloadBtn.addEventListener('click',()=>{
 })
 
 function isEmptyInput(){
-    qrText.value.length>0?generateQRCode():alert("--  PLease Enter the text or URL to generate QR Code  --");
+    qrText.value.length>0?generateQRCode():alert("--  Please Enter the text or URL to generate QR Code  --");
 }
 
 function generateQRCode(){
