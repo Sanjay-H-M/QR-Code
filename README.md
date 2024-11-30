@@ -58,7 +58,7 @@ QR-Code-Generator/
 ---
 
 ## **Dependencies**
-- [QRCode.js](https://github.com/davidshimjs/qrcodejs): A pure JavaScript QR code library.
+- [QRCode.js](https://github.com/davidshimjs/qrcodejs) : A pure JavaScript QR code library.
 
 ---
 
