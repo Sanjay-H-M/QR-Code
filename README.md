@@ -73,7 +73,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## **Author**
-- **Sanjay**  
-  [GitHub Profile](https://github.com/Sanjay-H-M/QR-Code.git) 
+- **Sanjay** : [GitHub Profile](https://github.com/Sanjay-H-M/QR-Code.git) 
 
 ---
